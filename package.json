@@ -25,8 +25,5 @@
   "dependencies": {
     "reconnect-core": "KurentoForks/reconnect-core",
     "websocket-stream": "~5.5.0"
-  },
-  "devDependencies": {
-    "ws": "^7.1.0"
   }
 }
